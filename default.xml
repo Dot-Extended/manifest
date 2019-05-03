@@ -13,9 +13,9 @@
 	       review="http://gerrit.droidontime.com/"
            revision="refs/heads/dot-p" />
 		   
-  <remote  name="dotOS-devices"
-           fetch="https://github.com/dotOS-Devices" 
-           revision="refs/heads/dot-p" />
+   <remote  name="Dot-Extended-devices"
+           fetch="https://github.com/Dot-Extended-devices" 
+           revision="refs/heads/pie" />
 	
   <default revision="refs/tags/android-9.0.0_r35"
            remote="aosp"
