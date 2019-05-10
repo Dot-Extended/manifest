@@ -109,7 +109,10 @@
   <!-- <project path="hardware/qcom/media-caf/msm8974" name="android_hardware_qcom_media" groups="qcom" remote="los" revision="lineage-16.0-caf-8974" /> -->
   <!-- <project path="hardware/qcom/media-caf/msm8994" name="android_hardware_qcom_media" groups="qcom" remote="los" revision="lineage-16.0-caf-8994" /> -->
   <project path="hardware/qcom/media-caf/msm8996" name="android_hardware_qcom_media" groups="qcom" remote="pie" revision="pie-caf-8996" />
-
+  <project path="hardware/qcom/audio-caf/msm8998" name="android_hardware_qcom_audio" groups="qcom,qcom_audio" remote="dot" revision="dot-p-caf-8998" />
+  <project path="hardware/qcom/display-caf/msm8998" name="android_hardware_qcom_display" groups="pdk,qcom,qcom_display" remote="dot" revision="dot-p-caf-8998" />
+  <project path="hardware/qcom/media-caf/msm8998" name="android_hardware_qcom_media" groups="qcom" remote="dot" revision="dot-p-caf-8998" />
+	
   <!-- <project path="hardware/broadcom/libbt" name="android_hardware_broadcom_libbt" groups="pdk" remote="los" /> -->
   <project path="hardware/interfaces" name="android_hardware_interfaces" groups="pdk" remote="pie" />
   <project path="hardware/libhardware" name="android_hardware_libhardware" remote="los" />
