@@ -119,7 +119,8 @@
   <project path="hardware/interfaces" name="android_hardware_interfaces" groups="pdk" remote="pie" />
   <project path="hardware/libhardware" name="android_hardware_libhardware" remote="los" />
   <project path="hardware/libhardware_legacy" name="android_hardware_libhardware_legacy" groups="pdk" remote="pie" />
-
+  <project path="hardware/lineage/livedisplay" name="android_hardware_lineage_livedisplay" remote="los" />
+	
   <!-- Ant Wireless -->
   <project path="external/ant-wireless/ant_native" name="android_external_ant-wireless_ant_native" remote="pie" />
   <project path="external/ant-wireless/ant_service" name="android_external_ant-wireless_ant_service" remote="pie" />
